@@ -11,10 +11,7 @@ fun main() {
         8 -> res = decimalToOct(inp)
         16 -> res = decimalToHEX(inp)
     }
-
-
-    println("Enter target base:")
-
+    println("Conversion result: $res")
 }
 
 fun decimalToBin(v: Int): String {

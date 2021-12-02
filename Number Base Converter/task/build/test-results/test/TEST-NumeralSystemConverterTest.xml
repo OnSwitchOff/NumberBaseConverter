@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NumeralSystemConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-02T12:33:05" hostname="VICTOR_K" time="0.15">
+  <properties/>
+  <testcase name="start" classname="NumeralSystemConverterTest" time="0.15"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Enter number in decimal system:
+> 499
+Enter target base:
+> 16
+Conversion result: 1F3
+?[1;31m
+Start test 2?[0m
+Enter number in decimal system:
+> 276
+Enter target base:
+> 16
+Conversion result: 114
+?[1;31m
+Start test 3?[0m
+Enter number in decimal system:
+> 53
+Enter target base:
+> 16
+Conversion result: 35
+?[1;31m
+Start test 4?[0m
+Enter number in decimal system:
+> 115
+Enter target base:
+> 2
+Conversion result: 1110011
+?[1;31m
+Start test 5?[0m
+Enter number in decimal system:
+> 709
+Enter target base:
+> 8
+Conversion result: 1305
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
